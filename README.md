@@ -1,3 +1,5 @@
+![Codeship Status](https://www.codeship.io/projects/362c08b0-7d43-0131-3402-6a711587ffb8/status)
+
 # AngularJS Phone Catalog Tutorial Application
 
 ## Overview
