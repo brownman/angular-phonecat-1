@@ -16,7 +16,7 @@ notifications:
     on_failure: always  # [always|never|change] # default: always
   irc:
     channels:
-      - "chat.freenode.net#angular-phonecat-fork"
+      - "irc.mozilla.org#angular-phonecat-fork"
     template:
       - "%{repository}#%{build_number} (%{branch} - %{commit} : %{author}): %{message}"
       - "Change view : %{compare_url}"
