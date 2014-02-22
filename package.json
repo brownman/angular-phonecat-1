@@ -1,7 +1,16 @@
 {
-  "name": "angularjs-seed",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "name": "angular-phonecat-fork",
+  "description": "A starter project for AngularJS with Continuous Deployment to nodejitsu",
+  "repository": "https://github.com/arielschiavoni/angular-phonecat.git",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "subdomain": "angular-phonecat-fork",
+  "scripts": {
+    "start": "node scripts/web-server.js"
+  },
   "devDependencies": {
     "phantomjs": "~1.9",
     "karma": "~0.10.4",

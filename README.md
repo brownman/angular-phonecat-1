@@ -1,6 +1,6 @@
 ![Codeship Status](https://www.codeship.io/projects/362c08b0-7d43-0131-3402-6a711587ffb8/status)
 
-# AngularJS Phone Catalog Tutorial Application
+# AngularJS Phone Catalog Tutorial Application + Nodejistsu Continuous Deployment
 
 ## Overview
 
@@ -8,6 +8,7 @@ This application takes the developer through the process of building a web-appli
 angular. The application is loosely based on
 [Google phone gallery](http://www.google.com/phone/). Each commit is a separate lesson
 teaching a single aspect of angular.
+It has integrated continuous deployment to nodejitsu.
 
 
 ## Prerequisites
