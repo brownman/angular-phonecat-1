@@ -17,10 +17,10 @@ notifications:
   irc:
     channels:
       - "irc.mozilla.org#angular-phonecat-fork"
-    template:
-      - "%{repository}#%{build_number} (%{branch} - %{commit} : %{author}): %{message}"
-      - "Change view : %{compare_url}"
-      - "Build details : %{build_url}"
+    # template:
+    #   - "%{repository}#%{build_number} (%{branch} - %{commit} : %{author}): %{message}"
+    #   - "Change view : %{compare_url}"
+    #   - "Build details : %{build_url}"
     # on_success: always  # [always|never|change] # default: always
     # on_failure: always  # [always|never|change] # default: always
 
