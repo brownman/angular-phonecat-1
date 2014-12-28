@@ -12,7 +12,7 @@ notifications:
     on_failure: never
 #  email:
 #    recipients:
-#      - brownman2556@gmail.com
+#      - brownman@gmail.com
 #    on_success: always  # [always|never|change] # default: change
 #    on_failure: always  # [always|never|change] # default: always
 #  irc:
