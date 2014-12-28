@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/brownman/angular-phonecat1.png?branch=master)](https://travis-ci.org/brownman/angular-phonecat1)
+
 [![Nodejitsu Deploy Status Badges](https://webhooks.nodejitsu.com/brownman/angular-phonecat1.png)](https://webops.nodejitsu.com#nodejitsu/webhooks)
+
 [service hooks](https://www.nodejitsu.com/documentation/features/webhooks/)
 
 # AngularJS Phone Catalog Tutorial Application + Nodejistsu Continuous Deployment
